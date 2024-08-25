@@ -1,5 +1,4 @@
 //! tests/health_check.rs
-//!
 
 // use zeroproday::run;
 
